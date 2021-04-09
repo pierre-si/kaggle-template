@@ -23,4 +23,4 @@ NB:
 
 # Retrieve kernel's output
 1. kaggle kernels output pseudo/kernel-name -p output/ 
-
+/!\ écrase les fichiers déjà existant nommés identiquements
